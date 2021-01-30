@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/CategoryAndProduct.cs \
+obj\Debug\netcoreapp3.1/CategoryAndProductGrpc.cs: Protos/categoryAndProduct.proto
